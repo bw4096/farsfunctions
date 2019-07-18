@@ -1,6 +1,7 @@
 # farsfunctions
 
-Travis Badge
+Travis Build Info
+https://travis-ci.com/bw4096/farsfunctions/builds
 <!-- badges: start -->
 [![Build Status](https://travis-ci.com/bw4096/farsfunctions.svg?branch=master)](https://travis-ci.com/bw4096/farsfunctions)
 <!-- badges: end -->
