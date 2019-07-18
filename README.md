@@ -2,7 +2,7 @@
 
 Travis Badge
 <!-- badges: start -->
-https://travis-ci.com/bw4096/farsfunctions.svg?branch=master
+[![Build Status](https://travis-ci.com/bw4096/farsfunctions.svg?branch=master)](https://travis-ci.com/bw4096/farsfunctions)
 <!-- badges: end -->
 
 ## Package 
